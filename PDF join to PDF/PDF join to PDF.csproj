@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PDF_join_to_PDF</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>D:\Projetos\Midia3\Priner\__trunk\Lib\itextsharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

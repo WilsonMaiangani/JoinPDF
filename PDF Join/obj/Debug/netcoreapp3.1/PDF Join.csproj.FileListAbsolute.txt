@@ -1,0 +1,16 @@
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.exe
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.deps.json
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.runtimeconfig.json
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.runtimeconfig.dev.json
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.dll
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\PDF Join.pdb
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\itextsharp.dll
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\bin\Debug\netcoreapp3.1\itextsharp.xml
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.csprojAssemblyReference.cache
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.AssemblyInfoInputs.cache
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.AssemblyInfo.cs
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.csproj.CoreCompileInputs.cache
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.csproj.CopyComplete
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.dll
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.pdb
+C:\Users\alifa\source\repos\PDF join to PDF\PDF Join\obj\Debug\netcoreapp3.1\PDF Join.genruntimeconfig.cache
